@@ -81,7 +81,6 @@
 			isa = PBXGroup;
 			children = (
 				879BAF0D2CFFA1F600054208 /* Bosta Assessment */,
-				87B4FA9A2D02765200A3415D /* StoryBorads */,
 				879BAF0C2CFFA1F600054208 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -97,6 +96,7 @@
 		879BAF0D2CFFA1F600054208 /* Bosta Assessment */ = {
 			isa = PBXGroup;
 			children = (
+				87B4FA9A2D02765200A3415D /* StoryBorads */,
 				879BAF1C2CFFA1F800054208 /* Info.plist */,
 				87B4FA932D0252C800A3415D /* Networking */,
 				87B4FA7F2D02509D00A3415D /* Profile */,
